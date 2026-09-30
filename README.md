@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0058-length-of-last-word) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
