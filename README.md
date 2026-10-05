@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
