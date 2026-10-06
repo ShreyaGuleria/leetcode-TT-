@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
