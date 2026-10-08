@@ -4,16 +4,10 @@ class Solution {
             return false;
         }
 
-        int digit;
-        int temp = x;
-        int rev = 0;
-
-        while(x>0){
-            digit = x%10;
-            rev = rev*10 + digit;
-            x  = x/10;
-        }
-        if (rev==temp){
+        String s = String.valueOf(x);
+        StringBuilder sb = new StringBuilder(s);
+        sb.reverse();
+        if(sb.toString().equals(s)){
             return true;
         }
         else{
