@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
