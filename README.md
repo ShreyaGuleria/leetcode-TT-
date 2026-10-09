@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0009-palindrome-number) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 <!---LeetCode Topics End-->
