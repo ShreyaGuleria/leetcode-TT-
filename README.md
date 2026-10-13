@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0796-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
 ## Database
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0796-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Design
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0283-move-zeroes) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Quicksort
 |  |
 | ------- |
