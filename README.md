@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0189-rotate-array) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0189-rotate-array) |
 ## Quicksort
 |  |
 | ------- |
