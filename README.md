@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0796-rotate-string) |
+| [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
 ## Database
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+| [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
 ## Matrix
 |  |
 | ------- |
