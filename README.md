@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
 ## Database
 |  |
