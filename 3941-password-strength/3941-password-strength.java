@@ -17,15 +17,14 @@ class Solution {
             else if(Character.isLowerCase(ch)){
                 points += 1;
             }
+            else if(ch == '!' || ch == '@' || ch==  '#' || ch=='$'){
+                points +=5;
+            }
 
             
         }
 
-        for(char ch: set){
-            if(ch == '!' || ch == '@' || ch==  '#' || ch=='$'){
-                points +=5;
-            }
-        }
+        
         return points;
     }
 }
