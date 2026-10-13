@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -132,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
