@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
@@ -60,22 +61,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
 ## Matrix
 |  |
@@ -152,8 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
