@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0258-add-digits) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
