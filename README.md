@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
 ## Matrix
 |  |
