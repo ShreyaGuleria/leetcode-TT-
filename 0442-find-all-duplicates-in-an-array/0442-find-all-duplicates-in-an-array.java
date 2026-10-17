@@ -25,9 +25,9 @@ class Solution {
             if(nums[index]<0){
                 ans.add(Math.abs(nums[i]));
             }
-            else{
+           
                 nums[index] = -nums[index];
-            }
+            
         }
         return ans;
     }
