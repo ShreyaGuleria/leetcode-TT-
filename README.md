@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-last-stone-weight](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1046-last-stone-weight) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
