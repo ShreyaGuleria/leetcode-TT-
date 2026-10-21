@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3941-password-strength](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/3941-password-strength) |
