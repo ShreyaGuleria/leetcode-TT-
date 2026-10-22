@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyaGuleria/leetcode-TT-/tree/master/0073-set-matrix-zeroes) |
 ## String Matching
 |  |
