@@ -13,7 +13,7 @@ class Solution {
         return result;
         
     }
-    private int value(char ch){
+     int value(char ch){
         switch (ch){
             case 'I': return 1;
             case 'V': return 5;
@@ -23,6 +23,6 @@ class Solution {
             case 'D': return 500;
             case 'M': return 1000;
             default: return 0;
-        }
+        } 
     }
 }
